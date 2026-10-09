@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Victor Hugo! 👋
 
-<!--
-**victorhugoEngineer/victorhugoEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://giphy.com" width="300" alt="Coding GIF">
+</div>
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+-  Atuando e estudando na área de **Engenharia de Software / Desenvolvimento**.
+-  Focado na criação de soluções robustas, eficientes e escaláveis.
+-  No momento, estou aprofundando meus conhecimentos em **[Insira uma tecnologia atual, ex: Nuvem, Microsserviços, etc.]**.
+-  Sinta-se à vontade para explorar meus repositórios e se conectar comigo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+*(Dica: Remova as que você não usa ou me peça para adicionar novas linguagens como Python, Java, C#, Docker, etc.)*
+
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" /><br><br>
+  <img src="https://vercel.app" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 🤝 Vamos nos conectar?
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
