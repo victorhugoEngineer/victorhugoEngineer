@@ -1,16 +1,11 @@
-🛠️ Tecnologias e ferramentas
-
 <div align="center">
 
-<a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/> </a> <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/> </a> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/> </a> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/> </a> <a href="https://www.gnu.org/software/bash/"> <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Terminal / Bash" title="Terminal e Bash"/> </a> <a href="https://pandas.pydata.org/"> <img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Análise de dados com Pandas"/> </a>
+💻 Cursando Engenharia de Software, em busca de oportunidades na área de desenvolvimento
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Victor%20Hugo&fontSize=36&fontColor=e6edf3&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<div align="center">
+📚 Estudando desenvolvimento de software e aprimorando minhas habilidades em programação.
 
-Java · Python · Terminal · Git · GitHub · Análise de Dados
-
-</div>
 
 🛠️ Tecnologias e ferramentas
 
