@@ -47,6 +47,6 @@ Estou aberto a conexões, troca de conhecimentos e oportunidades para crescer na
 
 Construindo conhecimento, projeto por projeto.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:000000&height=120&height=90&section=footer" width="100%"/>
 
 </div>
