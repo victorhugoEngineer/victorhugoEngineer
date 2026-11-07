@@ -1,52 +1,130 @@
 <div align="center">
 
-💻 Cursando Engenharia de Software, em busca de oportunidades na área de desenvolvimento
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:8B0000,100:FF0000&text=VICTOR%20HUGO&fontColor=FFFFFF&fontSize=35&fontAlignY=40&animation=fadeIn&section=header"/>
+### `Software Engineering Student` 💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:000000&height=120&section=header&text=Victor%20Hugo&fontSize=36&fontColor=e6edf3&fontAlignY=65&animation=fadeIn" width="100%"/>
+**Transformando ideias em soluções através da programação.**
 
-📚 Estudando desenvolvimento de software e aprimorando minhas habilidades em programação.
-
-
-🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-<a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/> </a> <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/> </a> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/> </a> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/> </a> <a href="https://www.gnu.org/software/bash/"> <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Terminal / Bash" title="Terminal e Bash"/> </a> <a href="https://pandas.pydata.org/"> <img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Análise de dados com Pandas"/> </a>
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorhugoEngineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/victorhugoEngineer)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:victorh0809@gmail.com)
 
 </div>
 
+---
+
+## 👨‍💻 Sobre mim
+
+```java
+public class VictorHugo {
+
+    String nome = "Victor Hugo";
+    String curso = "Engenharia de Software";
+    String objetivo = "Software Developer";
+
+    String[] conhecimentos = {
+        "Java",
+        "Python",
+        "Git",
+        "GitHub",
+        "SQL"
+    };
+
+    String foco = "Desenvolvimento de Software";
+
+    void estudar() {
+        System.out.println(
+            "Aprendendo, praticando e evoluindo!"
+        );
+    }
+}
+```
+
+Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções.
+
+Atualmente estou aprimorando minhas habilidades em programação, lógica computacional, desenvolvimento de sistemas e análise de dados.
+
+Meu objetivo é transformar conhecimento em projetos reais e evoluir constantemente como desenvolvedor.
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
 
-Java · Python · Terminal · Git · GitHub · Análise de Dados
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,bash&theme=dark" />
+
+**Banco de dados e análise**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
 </div>
+
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorhugoEngineer&showicons=true&hideborder=true&bgcolor=0d1117&titlecolor=58a6ff&iconcolor=58a6ff&textcolor=c9d1d9&includeallcommits=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorhugoEngineer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoEngineer&layout=compact&hideborder=true&bgcolor=0d1117&titlecolor=58a6ff&textcolor=c9d1d9&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugoEngineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=victorhugoEngineer&theme=github-dark-blue&hideborder=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=ptBR" alt="Sequência de contribuições"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=victorhugoEngineer&theme=tokyonight&hide_border=true"/>
 
 </div>
-📫 Contato
 
-Estou aberto a conexões, troca de conhecimentos e oportunidades para crescer na área de desenvolvimento de software.
+---
+
+## 🏆 Projetos
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> • <a href="mailto:SEU-EMAIL@gmail.com">E-mail</a> • <a href="https://github.com/SEU-USUARIO">GitHub</a>
+<a href="https://github.com/victorhugoEngineer/secret-keeper">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=victorhugoEngineer&repo=secret-keeper&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+Confira meus outros projetos:
+
+[![Repositories](https://img.shields.io/badge/Explorar%20repositórios-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorhugoEngineer?tab=repositories)
+
+---
+
+## 📬 Vamos nos conectar?
+
+<div align="center">
+
+Se você gosta de tecnologia, programação e inovação, vamos trocar conhecimentos!
+
+<a href="mailto:victorh0809@gmail.com">
+<img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/victorhugoEngineer">
+<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/victorhugoEngineer">
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=1f6feb&label=Visualizações+do+perfil" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=victorhugoEngineer&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<br/>
+### "Great things are built one line of code at a time."
 
-Construindo conhecimento, projeto por projeto.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:000000&height=120&height=90&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=110&section=footer"/>
 
 </div>
