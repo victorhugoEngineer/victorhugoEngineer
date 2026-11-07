@@ -2,7 +2,7 @@
 
 💻 Cursando Engenharia de Software, em busca de oportunidades na área de desenvolvimento
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=header&text=Victor%20Hugo&fontSize=36&fontColor=e6edf3&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:000000&height=120&section=header&text=Victor%20Hugo&fontSize=36&fontColor=e6edf3&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 📚 Estudando desenvolvimento de software e aprimorando minhas habilidades em programação.
 
